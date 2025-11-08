@@ -1,6 +1,16 @@
 # 🎧 Machine Sound Anomaly Detection  
 
+# 👋 Hi, I'm Divya!
+
+### 🌐 My Live Projects
+
+🎧 **[Machine Sound Anomaly Detection](https://machine-sound-anomaly-detection.streamlit.app/)**  
+An AI-powered web app that detects abnormal machine sounds using deep learning.  
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://machine-sound-anomaly-detection.streamlit.app/)
+
+🧠 Tech Stack: Python | Streamlit | TensorFlow | Librosa | Pandas | NumPy
+
 
 
 
@@ -74,3 +84,4 @@ Visit the live app here 👇
 
 
 ⭐ *If you like this project, don’t forget to give it a star on GitHub!* ⭐
+
