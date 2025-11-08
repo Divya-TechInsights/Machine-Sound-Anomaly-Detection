@@ -1,4 +1,4 @@
-# 🎧 Machine Sound Anomaly Detection  
+#  Machine Sound Anomaly Detection  
 
 # 👋 Hi, I'm Divya!
 
@@ -9,12 +9,12 @@ An AI-powered web app that detects abnormal machine sounds using deep learning.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://machine-sound-anomaly-detection.streamlit.app/)
 
-🧠 Tech Stack: Python | Streamlit | TensorFlow | Librosa | Pandas | NumPy
+Tech Stack: Python | Streamlit | TensorFlow | Librosa | Pandas | NumPy
 
 
 
 
-## 🧠 Overview  
+## Overview  
 
 **Machine Sound Anomaly Detection** is an AI-powered web application that identifies abnormal machine behavior based on sound patterns.  
 By analyzing audio signals using **Deep Learning** and **Signal Processing**, this project helps in **predictive maintenance** — detecting faults before they cause costly downtime.  
@@ -23,14 +23,14 @@ By analyzing audio signals using **Deep Learning** and **Signal Processing**, th
 
 ## ⚙️ Key Features  
 
-- 🎵 **Audio Analysis** – Extracts features like Mel-frequency cepstral coefficients (MFCCs) from machine sound.  
-- 🤖 **Deep Learning Model** – Classifies normal vs. abnormal machine states using trained neural networks.  
-- 📊 **Interactive Streamlit App** – User-friendly interface for uploading and testing machine audio.  
-- 🔔 **Real-Time Detection** – Instantly predicts anomaly status with visualization.  
+- **Audio Analysis** – Extracts features like Mel-frequency cepstral coefficients (MFCCs) from machine sound.  
+- **Deep Learning Model** – Classifies normal vs. abnormal machine states using trained neural networks.  
+- **Interactive Streamlit App** – User-friendly interface for uploading and testing machine audio.  
+- **Real-Time Detection** – Instantly predicts anomaly status with visualization.  
 
 
 
-## 🧩 Technologies Used  
+##  Technologies Used  
 
 - **Python**  
 - **Streamlit** (for web interface)  
@@ -41,7 +41,7 @@ By analyzing audio signals using **Deep Learning** and **Signal Processing**, th
 
 
 
-## 🚀 How It Works  
+##  How It Works  
 
 1. **Upload a machine sound file** (in `.wav` format).  
 2. The app extracts key **audio features** using `librosa`.  
@@ -50,7 +50,7 @@ By analyzing audio signals using **Deep Learning** and **Signal Processing**, th
 
 
 
-## 🧾 Use Case  
+## Use Case  
 
 This project is ideal for:  
 - Industrial equipment monitoring  
@@ -60,14 +60,7 @@ This project is ideal for:
 
 
 
-## 📷 App Preview  
-
-Visit the live app here 👇  
-👉 **[Machine Sound Anomaly Detection App](https://machine-sound-anomaly-detection.streamlit.app/)**  
-
-
-
-## 💡 Future Enhancements  
+## Future Enhancements  
 
 - Expand dataset with diverse machine sounds  
 - Integrate real-time sensor data  
@@ -76,12 +69,13 @@ Visit the live app here 👇
 
 
 
-## 👩‍💻 Author  
+## Author  
 
 **Divya TechInsights**  
-📫 [GitHub Profile](https://github.com/Divya-TechInsights)
+[GitHub Profile](https://github.com/Divya-TechInsights)
 
 
 
 ⭐ *If you like this project, don’t forget to give it a star on GitHub!* ⭐
+
 
